@@ -1,16 +1,4 @@
-# local_events
+Screenshots:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![S0](https://user-images.githubusercontent.com/81079724/144194957-a8091c06-54b7-4189-a64c-cd7392fb1494.png)
+![S1](https://user-images.githubusercontent.com/81079724/144195164-4b32e36e-a4e1-4b90-a05e-87cf51ee1c1f.png)
